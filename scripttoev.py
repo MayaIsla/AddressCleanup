@@ -4,7 +4,7 @@ import requests
 import json
 
 
-dict = "C:/Users/misl7603/Desktop/Scripts/Address Cleanup/sample.csv"
+dict = "sample.csv"
 
 df = pd.read_csv(dict)
 
